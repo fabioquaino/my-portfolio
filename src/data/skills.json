@@ -1,0 +1,95 @@
+{
+    "tools": [
+      {
+        "id": "tdi",
+        "name": "Talend Data Integration (DI)",
+        "description": "Open-source tool for combining and transforming data from different sources.",
+        "link": "https://www.talend.com/products/integrate-data/"
+      },
+      {
+        "id": "tesb",
+        "name": "Talend Enterprise Service Bus (ESB)",
+        "description": "Facilitates communication between different applications in a business.",
+        "link": "https://help.talend.com/r/en-US/8.0/studio-getting-started-guide-esb/introduction"
+      },
+      {
+        "id": "airflow",
+        "name": "Apache Airflow",
+        "description": "Scheduler for managing complex workflows in a user-friendly way.",
+        "link": "https://airflow.apache.org/"
+      },
+      {
+        "id": "aws",
+        "name": "Amazon Web Services (AWS)",
+        "description": "Flexible, reliable, and scalable cloud computing solutions.",
+        "link": "https://aws.amazon.com/"
+      },
+      {
+        "id": "pyml",
+        "name": "Python for Machine Learning (ML)",
+        "description": "Programming language commonly used for creating applications that learn from data.",
+        "link": "https://www.python.org/"
+      },
+      {
+        "id": "nodered",
+        "name": "Node-RED & IoT",
+        "description": "Visual tool for connecting devices, APIs, and online services for IoT applications.",
+        "link": "https://nodered.org/"
+      },
+      {
+        "id": "powerbi",
+        "name": "Power BI",
+        "description": "Microsoft service for turning data into actionable insights through interactive visualizations.",
+        "link": "https://powerbi.microsoft.com/"
+      },
+      {
+        "id": "mysql",
+        "name": "MySQL",
+        "description": "Open-source database system known for speed, reliability, and ease of use.",
+        "link": "https://www.mysql.com/"
+      },
+      {
+        "id": "oracle",
+        "name": "Oracle Database",
+        "description": "Powerful and secure database system by Oracle for handling large amounts of data.",
+        "link": "https://www.oracle.com/database/"
+      },
+      {
+        "id": "linux",
+        "name": "Linux",
+        "description": "Open-source operating system used in various computing devices.",
+        "link": "https://www.linux.org/"
+      },
+      {
+        "id": "git",
+        "name": "Git",
+        "description": "Tool for tracking changes in source code during software development.",
+        "link": "https://git-scm.com/"
+      },
+      {
+        "id": "docker",
+        "name": "Docker",
+        "description": "Platform for making applications consistent and easy to deploy using containers.",
+        "link": "https://www.docker.com/"
+      },
+      {
+        "id": "react",
+        "name": "React",
+        "description": "JavaScript library for building user interfaces on the web.",
+        "link": "https://reactjs.org/"
+      },
+      {
+        "id": "bonita",
+        "name": "Bonita BPM",
+        "description": "Open-source tool for creating efficient and adaptive business applications.",
+        "link": "https://www.bonitasoft.com/"
+      },
+      {
+        "id": "atlassian",
+        "name": "Atlassian Suite",
+        "description": "Collection of software products for team collaboration and productivity, including Jira and Bitbucket.",
+        "link": "https://www.atlassian.com/"
+      }
+    ]
+  }
+  
