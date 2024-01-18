@@ -1,5 +1,6 @@
 import { FaLinkedin, FaDownload, FaSearch } from "react-icons/fa";
-import ResumePdf  from "../assets/Fabio_Quaino_Resume.pdf"
+import { FaFilePdf } from "react-icons/fa6";
+import ResumePdf  from "../assets/Fabio_Quaino_Resume.pdf" 
 import { Link } from "react-router-dom";
 
 export default function Resume() {  
@@ -15,12 +16,12 @@ export default function Resume() {
                         className='flex gap-2 items-center justify-center p-2 bg-orange-500 rounded-md hover:bg-slate-900 hover:text-orange-500 border-2 border-transparent hover:border-orange-500 transition-colors'
                         to={ResumePdf}
                         //download='Fabio_Quaino_Resume.pdf'
-                        target='blank'
-                    ><FaDownload/>Resume as PDF</Link>
+                        target='_blank'
+                    ><FaFilePdf/>Resume as PDF</Link>
                     <Link 
                         className='flex gap-2 items-center justify-center p-2 bg-orange-500 rounded-md hover:bg-slate-900 hover:text-orange-500 border-2 border-transparent hover:border-orange-500 transition-colors'
                         to="https://www.linkedin.com/in/fabioquaino"
-                        target="blank"
+                        target="_blank"
                     ><FaLinkedin/>Linkedin Profile</Link>
                 </div>
 
@@ -30,7 +31,7 @@ export default function Resume() {
                         <hr className="h-0.1 bg-slate-600 w-full my-3 opacity-20"/>
                         <div className="flex flex-col gap-1 text-lg text-slate-500  font-semibold mb-6">
                             <h3 className="text-2xl text-orange-500 font-bold">Data Engineer</h3>
-                            <Link className="text-xl text-slate-400 font-bold hover:text-slate-500 transition-colors" to="https://www.holon.com.ar/" target="blank">Holon Software</Link>
+                            <Link className="text-xl text-slate-400 font-bold hover:text-slate-500 transition-colors" to="https://www.holon.com.ar/" target="_blank">Holon Software</Link>
                             <h4 className="text-base font-bold text-slate-700">09/2022 - Present</h4>
                             <p>Worked in the interoperability department on projects related to public administration.</p>
                             <ul className="list-disc pl-6">
@@ -45,7 +46,7 @@ export default function Resume() {
                         </div>
                         <div className="flex flex-col gap-1 text-lg text-slate-500 font-semibold">
                             <h3 className="text-2xl text-orange-500 font-bold">University tutor</h3>
-                            <Link className="text-xl text-slate-400 font-bold hover:text-slate-500 transition-colors" to="https://www.frvm.utn.edu.ar/" target="blank">Universidad Tecnológica Nacional FRVM</Link>
+                            <Link className="text-xl text-slate-400 font-bold hover:text-slate-500 transition-colors" to="https://www.frvm.utn.edu.ar/" target="_blank">Universidad Tecnológica Nacional FRVM</Link>
                             <h4 className="text-base font-bold text-slate-700">09/2021 - 03/2022</h4>
                             <p>Provided virtual tutoring sessions for incoming students in:</p>
                             <ul className="list-disc pl-6">
@@ -61,7 +62,7 @@ export default function Resume() {
                         <div className="flex flex-col gap-4">
                             <div className="flex flex-col text-lg text-slate-500 font-semibold">
                                 <h3 className="text-xl text-orange-500 font-bold flex gap-2 items-center">Ing. Isidoro Marín Award - 2023 
-                                    <Link to="https://acading.org.ar/premio-ing-isidoro-marin-a-los-mejores-egresados-de-carreras-de-ingenieria-de-universidades-argentinas/" target="blank"
+                                    <Link to="https://acading.org.ar/premio-ing-isidoro-marin-a-los-mejores-egresados-de-carreras-de-ingenieria-de-universidades-argentinas/" target="_blank"
                                         className="text-base text-slate-400 hover:text-slate-500 transition-colors"
                                     ><FaSearch/></Link>
                                 </h3>
@@ -87,12 +88,12 @@ export default function Resume() {
                         <hr className="h-0.1 bg-slate-600 w-full my-3 opacity-20"/>
                         <div className="flex flex-col gap-1 text-lg text-slate-500  font-semibold mb-4">
                             <h3 className="text-2xl text-orange-500 font-bold">Systems Information Engineering</h3>
-                            <Link className="text-xl text-slate-400 font-bold hover:text-slate-500 transition-colors" to="https://www.frvm.utn.edu.ar/" target="blank">Universidad Tecnológica Nacional FRVM</Link>
+                            <Link className="text-xl text-slate-400 font-bold hover:text-slate-500 transition-colors" to="https://www.frvm.utn.edu.ar/" target="_blank">Universidad Tecnológica Nacional FRVM</Link>
                             <h4 className="text-base font-bold text-slate-700">03/2018 - 03/2023</h4>
                         </div>
                         <div className="flex flex-col gap-1 text-lg text-slate-500  font-semibold">
                             <h3 className="text-2xl text-orange-500 font-bold">Bachelor's Degree in Computer Science</h3>
-                            <Link className="text-xl text-slate-400 font-bold hover:text-slate-500 transition-colors" to="https://santisimatrinidadvm.edu.ar/nivel-secundario" target="blank">Instituto La Santísima Trinidad</Link>
+                            <Link className="text-xl text-slate-400 font-bold hover:text-slate-500 transition-colors" to="https://santisimatrinidadvm.edu.ar/nivel-secundario" target="_blank">Instituto La Santísima Trinidad</Link>
                             <h4 className="text-base font-bold text-slate-700">02/2012 - 11/2017</h4>
                         </div>
                     </div>

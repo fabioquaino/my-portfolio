@@ -1,0 +1,44 @@
+{
+    "projects": [
+      {
+        "name": "Mejorar Program",
+        "description": "I worked as part of the interoperability team in the Mejorar program, developing database models, microservices, and ETLs for information management. Mejorar is a program of the Municipality of Córdoba that ensures access to medications for individuals with exclusive public coverage, meaning without health insurance or private health plans, through an electronic prescription system and participating pharmacies.",
+        "image": "mejorar.png",
+        "link_repo": null, 
+        "link_site": null,
+        "link_info": "https://salud.cordoba.gob.ar/programa-mejorar/#:~:text=Mejorar%20es%20un%20programa%20de,trav%C3%A9s%20de%20las%20farmacias%20adheridas."
+      },
+      {
+        "name": "ConControl",
+        "description": "To graduate in Software Systems Engineering, my team developed ConControl. ConControl is a user-friendly, cross-platform software designed to detect seizures in real-time and automatically notify the patient's caregivers. It also maintains a record of past episodes, providing detailed information. The application is aimed at individuals experiencing seizures, their caregivers, and medical professionals. Currently, only a part of it is available online.",
+        "image": "concontrol.png",
+        "link_repo": null, 
+        "link_site": "https://concontrol.ar/inicio",
+        "link_info": "https://ria.utn.edu.ar/handle/20.500.12272/7621"
+      },
+      {
+        "name": "Telegram Chat with Sentiment Analysis",
+        "description": "This project integrates a Telegram bot with sentiment analysis. The bot, developed with the telebot library, handles incoming messages to collect information such as message ID, chat ID, text content, and user details. The sentiment analysis evaluates the mood of the message, and the outcomes, along with other message details, are stored in a MySQL database. Later, these details can be displayed on an analysis dashboard.",
+        "image": "telegram_chat.png",
+        "link_repo": "https://github.com/fabioquaino/project-telegram-chat", 
+        "link_site": null,
+        "link_info": null
+      },
+      {
+        "name": "Deploy Talend ESB Runtime with Traefik",
+        "description": "This project focuses on configuring and deploying services using Talend ESB 8 with Traefik as a reverse proxy. In this setup, Talend ESB services are configured on specific ports, and Traefik serves as a dynamic reverse proxy, handling routing and service exposure. The combination allows for efficient management of incoming requests, ensuring that routing rules are always up-to-date through dynamic configuration updates based on Docker events.",
+        "image": "talendesb_deploy.png",
+        "link_repo": "https://github.com/fabioquaino/talend-esb-deploy", 
+        "link_site": null,
+        "link_info": null
+      },
+      {
+        "name": "Government Dashboards APIs",
+        "description": "I contributed to creating the data model and REST services that support some of the PowerBI dashboards developed by the Digital Transformation Center (CTD) of the Municipality of Córdoba. These dashboards showcase important information for the city's residents, gathering data from various government platforms.",
+        "image": "tableros_ctd.png",
+        "link_repo": null, 
+        "link_site": "https://gobiernoabierto.cordoba.gob.ar/visualizaciones/lista/",
+        "link_info": null
+      }
+    ]
+}
