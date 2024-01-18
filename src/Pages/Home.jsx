@@ -20,18 +20,21 @@ export default function Home() {
                         <h1 className="text-5xl font-bold text-slate-400 text-left">Hey, I'm Fabio Quaino</h1>
                         <hr className="h-0.1 bg-slate-600 w-full mt-6 mb-4 opacity-20"/>
                         <p className="text-slate-500 text-xl font-semibold">
-                            I'm a <span className="font-bold text-orange-500">Systems Information Engineer</span> specializing in handling
-                            information by creating and managing <span className="font-bold text-slate-400">ETLs</span>, <span className="font-bold text-slate-400">microservices</span>, <span className="font-bold text-slate-400">dashboards</span>, and <span className="font-bold text-slate-400">data
-                            models</span>. My expertise also extends to <span className="font-bold text-slate-400">application integration</span>, connecting different
-                            systems together. I'm also keen on <span className="font-bold text-slate-400">machine learning</span> and creating algorithms to make
-                            the most of information.
+                            I'm a <span className="font-bold text-orange-500">Software Systems Engineer</span> specialized in handling information by creating and
+                            managing <span className="font-bold text-slate-400">ETLs</span>, <span className="font-bold text-slate-400">microservices</span>, <span className="font-bold text-slate-400">dashboards</span>, and <span className="font-bold text-slate-400">data models</span>.
+                            My expertise also extends to <span className="font-bold text-slate-400">application integration</span>, connecting different systems together.
+                            I'm also keen on <span className="font-bold text-slate-400">machine learning</span> and creating algorithms to make the most of
+                            information.
                         </p>
                         <p className="text-slate-500 text-xl font-semibold hidden lg:block lg:mt-2">
-                            Currently, my focus is on <span className="font-bold text-slate-400">data engineering</span> because of my interests and knowledge. I'm
-                            always looking to expand my skills in this area, eager to learn new tools and
-                            methodologies. My goal is to stay updated on the latest tech trends for top-notch data
-                            solutions.
+                            Currently, my focus is on <span className="font-bold text-slate-400">data engineering</span> because of my interests and knowledge.
+                            I'm always looking to expand my skills in this area, that is why I'm eager to learn new
+                            tools and methodologies. My goal is to stay updated on the latest tech trends for topnotch data solutions.
                         </p>
+
+
+
+
 
                         <div className='text-slate-900 font-semibold text-md flex flex-col sm:flex-row gap-4 mt-8'>
                                 <Link 
