@@ -10,7 +10,7 @@
       },
       {
         "name": "ConControl",
-        "description": "To graduate in Software Systems Engineering, my team developed ConControl. ConControl is a user-friendly, cross-platform software designed to detect seizures in real-time and automatically notify the patient's caregivers. It also maintains a record of past episodes, providing detailed information. The application is aimed at individuals experiencing seizures, their caregivers, and medical professionals. Currently, only a part of it is available online.",
+        "description": "To graduate in Systems Information Engineering, my team developed ConControl. ConControl is a user-friendly, cross-platform software designed to detect seizures in real-time and automatically notify the patient's caregivers. It also maintains a record of past episodes, providing detailed information. The application is aimed at individuals experiencing seizures, their caregivers, and medical professionals. Currently, only a part of it is available online.",
         "image": "concontrol.png",
         "link_repo": null, 
         "link_site": "https://concontrol.ar/inicio",
