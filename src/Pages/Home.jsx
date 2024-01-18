@@ -40,17 +40,17 @@ export default function Home() {
                                 <Link 
                                     className='flex gap-2 align-middle items-center justify-center p-2 bg-orange-500 rounded-md hover:bg-slate-900 hover:text-orange-500 border-2 border-transparent hover:border-orange-500 transition-colors'
                                     to="https://wa.me/543535626982"
-                                    target="blank"
+                                    target="_blank"
                                 ><FaWhatsapp/>WhatsApp</Link>
                                 <Link 
                                     className='flex gap-2 align-middle items-center justify-center p-2 bg-orange-500 rounded-md hover:bg-slate-900 hover:text-orange-500 border-2 border-transparent hover:border-orange-500 transition-colors'
                                     to="https://t.me/FabioQuaino"
-                                    target="blank"
+                                    target="_blank"
                                 ><FaTelegram/>Telegram</Link>
                                 <Link 
                                     className='flex gap-2 align-middle items-center justify-center p-2 bg-orange-500 rounded-md hover:bg-slate-900 hover:text-orange-500 border-2 border-transparent hover:border-orange-500 transition-colors'
                                     to="mailto:fabiomjq@gmail.com"
-                                    target="blank"
+                                    target="_blank"
                                 ><FaEnvelope/>fabiomjq@gmail.com</Link>
                             </div>
                     </div>

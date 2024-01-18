@@ -1,13 +1,6 @@
 import Skill from "./Skill"
 import skillsJson from "../data/skills.json"
 
-const ejemploSkill = {
-    nombre: 'React',
-    descripcion: 'Librería de JavaScript para construir interfaces de usuario.',
-    link: 'https://reactjs.org/',
-    icono: 'ruta-al-icono-de-react.png', // Reemplaza con la ruta real a tu icono
-  }
-
 export default function Skills() {
     return (
         <div className="w-full p-5 pt-0 md:px-10 md:tp-5 md:pb-10 lg:pb-16 lg:px-40">
