@@ -1,0 +1,28 @@
+{
+    "tools": [
+        {
+            "id": "bonita",
+            "name": "Bonita BPM",
+            "description": "Open-source tool for creating efficient and adaptive business applications.",
+            "link": "https://www.bonitasoft.com/"
+          },
+          {
+            "id": "aws",
+            "name": "Amazon Web Services (AWS)",
+            "description": "Flexible, reliable, and scalable cloud computing solutions.",
+            "link": "https://aws.amazon.com/"
+          },
+          {
+            "id": "pyml",
+            "name": "Python for Machine Learning (ML)",
+            "description": "Programming language commonly used for creating applications that learn from data.",
+            "link": "https://www.python.org/"
+          },
+          {
+            "id": "atlassian",
+            "name": "Atlassian Suite",
+            "description": "Collection of software products for team collaboration and productivity, including Jira and Bitbucket.",
+            "link": "https://www.atlassian.com/"
+          }
+    ]
+}

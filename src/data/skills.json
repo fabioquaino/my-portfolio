@@ -19,28 +19,10 @@
         "link": "https://airflow.apache.org/"
       },
       {
-        "id": "aws",
-        "name": "Amazon Web Services (AWS)",
-        "description": "Flexible, reliable, and scalable cloud computing solutions.",
-        "link": "https://aws.amazon.com/"
-      },
-      {
-        "id": "pyml",
-        "name": "Python for Machine Learning (ML)",
-        "description": "Programming language commonly used for creating applications that learn from data.",
-        "link": "https://www.python.org/"
-      },
-      {
         "id": "nodered",
         "name": "Node-RED & IoT",
         "description": "Visual tool for connecting devices, APIs, and online services for IoT applications.",
         "link": "https://nodered.org/"
-      },
-      {
-        "id": "powerbi",
-        "name": "Power BI",
-        "description": "Microsoft service for turning data into actionable insights through interactive visualizations.",
-        "link": "https://powerbi.microsoft.com/"
       },
       {
         "id": "mysql",
@@ -53,6 +35,24 @@
         "name": "Oracle Database",
         "description": "Powerful and secure database system by Oracle for handling large amounts of data.",
         "link": "https://www.oracle.com/database/"
+      },
+      {
+        "id": "powerbi",
+        "name": "Power BI",
+        "description": "Microsoft service for turning data into actionable insights through interactive visualizations.",
+        "link": "https://powerbi.microsoft.com/"
+      },
+      {
+        "id": "pyml",
+        "name": "Python",
+        "description": "Versatile programming language for applications and Machine Learning projects.",
+        "link": "https://www.python.org/"
+      },
+      {
+        "id": "react",
+        "name": "React",
+        "description": "JavaScript library for building user interfaces on the web.",
+        "link": "https://reactjs.org/"
       },
       {
         "id": "linux",
@@ -71,24 +71,6 @@
         "name": "Docker",
         "description": "Platform for making applications consistent and easy to deploy using containers.",
         "link": "https://www.docker.com/"
-      },
-      {
-        "id": "react",
-        "name": "React",
-        "description": "JavaScript library for building user interfaces on the web.",
-        "link": "https://reactjs.org/"
-      },
-      {
-        "id": "bonita",
-        "name": "Bonita BPM",
-        "description": "Open-source tool for creating efficient and adaptive business applications.",
-        "link": "https://www.bonitasoft.com/"
-      },
-      {
-        "id": "atlassian",
-        "name": "Atlassian Suite",
-        "description": "Collection of software products for team collaboration and productivity, including Jira and Bitbucket.",
-        "link": "https://www.atlassian.com/"
       }
     ]
   }
